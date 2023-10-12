@@ -1,0 +1,23 @@
+.Card {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+.PokeCard {
+    width: 350px;
+}
+
+.Stats {
+    text-align: left;
+}
+
+.CardTitle {
+    margin: 1rem;
+    font-weight: 800;
+    font-size: x-large;
+}
+
+.PokeImg {
+    padding: 2rem;
+}
